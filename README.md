@@ -47,5 +47,3 @@ To use the project after downloading the code, follow these steps:
 
 2. **Open the HTML File:**
    - Open the `index.html` file in a web browser. You can do this by double-clicking the file or opening it through your browser's file menu.
-
-By following these steps, you can set up and run the Advanced Memory Game on your local machine. Enjoy testing your memory skills with this fun and interactive game!
